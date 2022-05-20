@@ -28,8 +28,8 @@ I'm studying HTML, CSS and JavaScript.
 
 <div align="center" display="inline-block">
 <a href="https://github.com/sl3ep">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sl3ep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl3ep&layout=default&langs_count=7&theme=tokyonight&custom_title=Languages&exclude_repo=dwm"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sl3ep&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub Status"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl3ep&layout=default&langs_count=7&theme=dark&custom_title=Languages&exclude_repo=dwm"/> 
 
   
 
