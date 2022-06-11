@@ -15,8 +15,10 @@ I'm studying HTML, CSS and JavaScript.
 
   </div>
 </div>
-  
-## **My status:**
+
+<div align="center">  
+  <p><strong>My status:</strong></p>
+</div>
 
 <div style="display:inline-block;">
 <a href="https://github.com/slpzi">
@@ -35,7 +37,6 @@ I'm studying HTML, CSS and JavaScript.
           
 </div>
 
----
 
 ### Found Me:
 
