@@ -21,8 +21,8 @@ I'm studying HTML, CSS and JavaScript.
 <div style="display:inline-block;">
 <a href="https://github.com/slpzi">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=slpzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub Status">
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpzi&layout=default&langs_count=7&theme=dark&custom_title=Languages&exclude_repo=dwm">
+<!--
+<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=slpzi&layout=default&langs_count=7&theme=dark&custom_title=Languages&exclude_repo=dwm"> --!>
 </a>
 </div>
 
