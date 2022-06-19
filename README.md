@@ -29,7 +29,7 @@ I'm studying HTML, CSS and JavaScript.
 ### Found Me:
 
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/slpzi__/" > <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://www.instagram.com/akjajwkm/" > <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=white"> </a>
   <a href="https://github.com/slpzi" > <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"> </a>
   <a href="#" > <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
