@@ -1,5 +1,3 @@
-<img width="100%" height="230cm" src="banner.jpg" >
-
 <p align="center">
   <samp align="center">
     Hi, i'm Kaik. <br>
