@@ -1,6 +1,6 @@
 <p align="center">
   <samp align="center">
-    Hi, i'm Kaik. <br>
+    Hi, i'm yksu. <br>
 I'm studying HTML, CSS and JavaScript.
     
 ----
