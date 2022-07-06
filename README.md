@@ -12,6 +12,7 @@
 <div style="display:inline-block;">
   <a href="https://github.com/hwkww">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hwkww&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub Status">
+   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwkww&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
