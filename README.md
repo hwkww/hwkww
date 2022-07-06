@@ -1,6 +1,6 @@
 <p align="center">
   <samp align="center">
-    Hi, i'm yksu. <br>
+    Hi, i'm hwkw. <br>
 
     
 ----
@@ -10,8 +10,8 @@
 </div>
 
 <div style="display:inline-block;">
-  <a href="https://github.com/yksuu">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yksuu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub Status">
+  <a href="https://github.com/hwkww">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hwkww&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub Status">
   </a>
 </div>
 
@@ -29,8 +29,8 @@
 ### Found Me:
 
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/yksus_/" > <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-  <a href="https://github.com/yksuu" > <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"> </a>
+  <a href="https://www.instagram.com/hwkwwwx/" > <img src="https://img.shields.io/badge/Instagram-1E1E2E?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://github.com/hwkww" > <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white"> </a>
   <a href="#" > <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
   
